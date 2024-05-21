@@ -1,5 +1,5 @@
 # Video_Segmentation
-# This project is helped by two more person Kanika Yadav & Abhinav Choudhary
+# This project is helped by two more person Sakshi Srivastava & Abhinav Choudhary
 Techinal Requirement : Check that your camera is working properly so that it should record video properly
 
 You should install python latest version in your pc
